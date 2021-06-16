@@ -1,7 +1,7 @@
 # garbage-management-internship-project 
 <br>
 
-#Internship project @ Visudh Ajivam
+# Internship project @ Visudh Ajivam
 <br>
 
 # Technologies 
