@@ -1,9 +1,9 @@
 <?php
 
-$username = "id14037329_root";
-$password = "Raj9@gmail.com";
+$username = "root";
+$password = "";
 $server = 'localhost';
-$db = 'id14037329_first_db';  
+$db = 'garbagemanager';  
 
 
 $con = mysqli_connect($server, $username, $password, $db);
