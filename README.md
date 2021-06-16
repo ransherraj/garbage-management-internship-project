@@ -4,15 +4,13 @@
 #Internship project @ Visudh Ajivam
 <br>
 
-# Technologies
-
-This Project has been developed with : <br>
-FrontEnd: HTML, CSS, Javascript, Bootstrap 
-
+# Technologies 
 <br>
-
+This Project has been developed with : 
+<br>
+FrontEnd: HTML, CSS, Javascript, Bootstrap 
+<br>
 Backend: mysql,php
-
 <br>
 
 # Hosted on 000webhost
