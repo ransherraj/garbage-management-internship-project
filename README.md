@@ -5,7 +5,10 @@ Internship project @ Visudh Ajivam
 # Technologies
 
 This Project has been developed with :
-FrontEnd: HTML, CSS, Javascript, Bootstrap
+FrontEnd: HTML, CSS, Javascript, Bootstrap 
+
+<br>
+
 Backend: mysql,php
 
 # Hosted on 000webhost
